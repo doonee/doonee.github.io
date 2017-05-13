@@ -1,2 +1,2 @@
 # doonee.github.io
-수업실습
+웹사이트
